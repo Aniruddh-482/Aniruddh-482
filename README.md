@@ -1,4 +1,5 @@
 ### **Hi there 👋, I'm Aniruddh**
+<hr>
 
 <!--
 **Aniruddh-482/Aniruddh-482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
