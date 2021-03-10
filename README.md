@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 ###**Connect with me:**
-[<img align="left" alt="Aryan Sarkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-[Instagram](https://www.instagram.com/aniruddh_upadhyay_/)
-[Twitter](https://twitter.com/Aniruddh_482)
-[Facebook](https://www.facebook.com/aniruddh.upadhyay.33)
+
+
+[<img align="left" alt="Aniruddh Upadhyay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="Aniruddh Upadhyay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Aniruddh Upadhyay | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
