@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 ###**Connect with me:**
 
 
-[<img align="left" alt="Aniruddh Upadhyay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/aniruddh-upadhyay-0170a51b2/]
+[<img align="left" alt="Aniruddh Upadhyay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="Aniruddh Upadhyay | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="Aniruddh Upadhyay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Aniruddh Upadhyay | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+[Instagram]: https://www.instagram.com/aniruddh_upadhyay_/
+[Linkedin]: https://www.linkedin.com/in/aniruddh-upadhyay-0170a51b2/
+[Facebook]: https://www.facebook.com/aniruddh.upadhyay.33
+[Twitter]: https://twitter.com/Aniruddh_482
+
