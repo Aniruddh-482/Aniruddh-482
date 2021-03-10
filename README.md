@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ###**Connect with me:**
-[Linkedin](https://www.linkedin.com/in/aniruddh-upadhyay-0170a51b2/)
+[<img align="left" alt="Aryan Sarkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [Instagram](https://www.instagram.com/aniruddh_upadhyay_/)
 [Twitter](https://twitter.com/Aniruddh_482)
 [Facebook](https://www.facebook.com/aniruddh.upadhyay.33)
