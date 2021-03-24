@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 * 🤔 I’m looking for help with some hillarious doubts
 * 💬 Ask me about C and C++
 * 📫 How to reach me: aniruddhupadhyay07@gmail.com
-* 🥅 2021 Goals: Contribute more to Open Source projects
+* 🥅 2021 Goals: To learn as much as I can
 * ⚡ Fun fact: I love Coding, Space, Religion and History, and think about them all at the same time
 
 
