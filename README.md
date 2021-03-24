@@ -1,4 +1,4 @@
-#### Hi there 👋, I'm Aniruddh
+## Hi there 👋, I'm Aniruddh
 <hr>
 
 <!--
