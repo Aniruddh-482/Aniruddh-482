@@ -10,6 +10,7 @@
 * 📫 How to reach me: aniruddhupadhyay07@gmail.com
 * 🥅 2021 Goals: To learn as much as I can
 <!--* ⚡ Fun fact: I love Coding, Space, Religion and History, and think about them all at the same time-->
+<br>
 
 
 <a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" /></a>
