@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Aniruddh
+<h1 align="center"> Hi there <img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Aniruddh
 <hr>
 
 
@@ -11,8 +11,8 @@
 * 🥅 2021 Goals: To learn as much as I can
 <!--* ⚡ Fun fact: I love Coding, Space, Religion and History, and think about them all at the same time-->
 
-<br>
-<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" /></a>
+
+<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" /></a>
 
 <br>
 
