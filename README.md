@@ -12,6 +12,11 @@
 <!--* ⚡ Fun fact: I love Coding, Space, Religion and History, and think about them all at the same time-->
 
 <br>
+<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" /></a>
+
+<br>
+
+<br>
 
 <div align="center">
 
@@ -26,10 +31,6 @@ Connect with me<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/
 
 <br>
 
-<br>
-<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" /></a>
-
-<br>
 <hr>
 
 <!--
