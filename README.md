@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Aniruddh
+<h1 align="center"> Hello there <img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Aniruddh</h1>
 <hr>
 
 
@@ -14,7 +14,7 @@
 
 
 ### My Stats ✨
-<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" /></a>
+<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react&layout=compact" /></a>
 
 <br>
 
