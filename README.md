@@ -9,23 +9,19 @@
 * 💬 Ask me about: tech, music, tv shows and books
 * 📫 How to reach me: aniruddhupadhyay07@gmail.com
 * 🥅 2021 Goals: To learn as much as I can
-<!--* ⚡ Fun fact: I love Coding, Space, Religion and History, and think about them all at the same time-->
-<br>
 
 ### Languages and Tools
-<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/html5_logo.png"></code>
-<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/css3_logo.png"></code>
-<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/php_logo.png"></code>
-<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/c_logo.png"></code>
-<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/cpp_logo.png"></code>
-<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/java_logo.png"></code>
-<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/python_logo.png"></code>
-<br>
+<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/html5_logo.png"></code>&nbsp;
+<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/css3_logo.png"></code>&nbsp;
+<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/php_logo.png"></code>&nbsp;
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/c_logo.png">](https://github.com/Aniruddh-482/HackerRank/tree/main/C)</code>&nbsp;
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/cpp_logo.png">](https://github.com/Aniruddh-482/HackerRank/tree/main/C%2B%2B)</code>&nbsp;
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/java_logo.png">](https://github.com/Aniruddh-482/Java)</code>&nbsp;
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/python_logo.png">](https://github.com/Aniruddh-482/HackerRank/tree/main/Python)</code>&nbsp;
 
 ### Practice
-<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Repl.it.png">](https://replit.com/@Aniruddh482)</code>
-<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/HackerRank_logo.png">](https://www.hackerrank.com/aniruddhupadhya1)</code>
-<br>
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Repl.it.png">](https://replit.com/@Aniruddh482)</code>&nbsp;
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/HackerRank_logo.png">](https://www.hackerrank.com/aniruddhupadhya1)</code>&nbsp;
 
 ### My Stats ✨
 <a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react&layout=compact" /></a>
@@ -41,9 +37,12 @@ Connect with me<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
+
 <br>
 
 <hr>
+
+<!--* ⚡ Fun fact: I love Coding, Space, Religion and History, and think about them all at the same time-->
 
 <!--
 **Aniruddh-482/Aniruddh-482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
