@@ -1,14 +1,12 @@
-<h1 align="center"> Hello there <img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Aniruddh</h1>
-<hr>
-
+<h1 align="center"> Hello there <img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Gifs/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Aniruddh</h1>
 
 ### About me
-* 🔭 I’m a 2nd year engineering student(B.Tech IT) at SVVV
-* 🌱 I’m currently learning Python and Java
-* 🤔 I’m looking for help with some hillarious doubts
-* 💬 Ask me about: tech, music, tv shows and books
+* 🔭 I’m a 2nd year engineering student(B.Tech IT) at SVVV.
+* 🌱 I’m currently learning Python and Java.
+* 🤔 I’m looking for help with some hillarious doubts.
+* 💬 Ask me about: tech, music, tv shows and books.
 * 📫 How to reach me: aniruddhupadhyay07@gmail.com
-* 🥅 2021 Goals: To learn as much as I can
+* 🥅 2021 Goals: To learn as much as I can.
 
 ### Languages and Tools
 <code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/html5_logo.png"></code>&nbsp;
@@ -20,8 +18,8 @@
 <code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/python_logo.png">](https://github.com/Aniruddh-482/HackerRank/tree/main/Python)</code>&nbsp;
 
 ### Practice
-<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Repl.it.png">](https://replit.com/@Aniruddh482)</code>&nbsp;
-<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/HackerRank_logo.png">](https://www.hackerrank.com/aniruddhupadhya1)</code>&nbsp;
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Practice/Repl.it.png">](https://replit.com/@Aniruddh482)</code>&nbsp;
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Practice/HackerRank_logo.png">](https://www.hackerrank.com/aniruddhupadhya1)</code>&nbsp;
 
 ### My Stats ✨
 <a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react&layout=compact" /></a>
@@ -30,10 +28,10 @@
 <div align="center">
 
 <h2>
-Connect with me<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Handshake.gif" height="32px">
+Connect with me<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Gifs/Handshake.gif" height="32px">
 </h2>
 
-| [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Github.png" alt="Github logo" width="34">](https://github.com/Aniruddh-482) | [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Gmail.png" alt="Gmail logo" height="32">](mailto:aniruddhupadhyay07@gmail.com) | [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Linkedin.png" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/aniruddh-upadhyay-0170a51b2/) | [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Twitter.png" alt="Twitter Logo" width="30">](https://twitter.com/Aniruddh_482) | [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Instagram.png" alt="Instagram logo" width="32">](https://www.instagram.com/aniruddh_upadhyay_/) | [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Facebook.png" alt="Facebook Logo" width="30">](https://www.facebook.com/aniruddh.upadhyay.33)
+| [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Connect_with_me/Github.png" alt="Github logo" width="34">](https://github.com/Aniruddh-482) | [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Connect_with_me/Gmail.png" alt="Gmail logo" height="32">](mailto:aniruddhupadhyay07@gmail.com) | [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Connect_with_me/Linkedin.png" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/aniruddh-upadhyay-0170a51b2/) | [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Connect_with_me/Twitter.png" alt="Twitter Logo" width="30">](https://twitter.com/Aniruddh_482) | [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Connect_with_me/Instagram.png" alt="Instagram logo" width="32">](https://www.instagram.com/aniruddh_upadhyay_/) | [<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Connect_with_me/Facebook.png" alt="Facebook Logo" width="30">](https://www.facebook.com/aniruddh.upadhyay.33)
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
