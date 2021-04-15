@@ -12,6 +12,20 @@
 <!--* ⚡ Fun fact: I love Coding, Space, Religion and History, and think about them all at the same time-->
 <br>
 
+### Languages and Tools
+<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/html5_logo.png"></code>
+<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/css3_logo.png"></code>
+<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/php_logo.png"></code>
+<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/c_logo.png"></code>
+<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/cpp_logo.png"></code>
+<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/java_logo.png"></code>
+<code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/python_logo.png"></code>
+<br>
+
+### Practice
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Repl.it.png">](https://replit.com/@Aniruddh482)</code>
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/HackerRank_logo.png">](https://www.hackerrank.com/aniruddhupadhya1)</code>
+<br>
 
 ### My Stats ✨
 <a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&count_private=true&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react&layout=compact" /></a>
@@ -27,21 +41,9 @@ Connect with me<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
-
 <br>
 
 <hr>
-
-<!-- ### Languages and Tools: 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br> -->
 
 <!--
 **Aniruddh-482/Aniruddh-482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
