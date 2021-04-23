@@ -3,8 +3,8 @@
 ### About me
 * 🔭 I’m a 2nd year engineering student(B.Tech IT) at SVVV.
 * 🌱 I’m currently learning Python and Java.
-* 🤔 I’m looking for help with some hillarious doubts.
-* 💬 Ask me about: tech, music, tv shows and books.
+* 🤔 I’m looking for help with some hilarious doubts.
+* 💬 Ask me about: tech, music, tv shows, and books.
 * 📫 How to reach me: aniruddhupadhyay07@gmail.com
 * 🥅 2021 Goals: To learn as much as I can.
 
@@ -15,7 +15,7 @@
 <code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/c_logo.png">](https://github.com/Aniruddh-482/HackerRank/tree/main/C)</code>&nbsp;
 <code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/cpp_logo.png">](https://github.com/Aniruddh-482/HackerRank/tree/main/C%2B%2B)</code>&nbsp;
 <code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/java_logo.png">](https://github.com/Aniruddh-482/Java)</code>&nbsp;
-<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/python_logo.png">](https://github.com/Aniruddh-482/HackerRank/tree/main/Python)</code>&nbsp;
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/python_logo.png">](https://github.com/Aniruddh-482/Python)</code>&nbsp;
 
 ### Practice
 <code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Practice/Repl.it.png">](https://replit.com/@Aniruddh482)</code>&nbsp;
@@ -40,7 +40,7 @@ Connect with me<img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/
 
 <hr>
 
-<!--* ⚡ Fun fact: I love Coding, Space, Religion and History, and think about them all at the same time-->
+<!--* ⚡ Fun fact: I love Coding, Space, Religion, and History, and think about them all at the same time-->
 
 <!--
 **Aniruddh-482/Aniruddh-482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
