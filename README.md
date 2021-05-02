@@ -5,7 +5,7 @@
 * 🌱 I’m currently learning Python and Java.
 * 🤔 I’m looking for help with some hilarious doubts.
 * 💬 Ask me about: tech, music, tv shows, and books.
-* 📫 How to reach me: aniruddhupadhyay07@gmail.com
+* 📫 How to reach me: aniruddhupadhyay07@gmail.com<a href="https://aniruddh-482.github.io/CV/">.</a>
 * 🥅 2021 Goals: To learn as much as I can.
 
 ### Languages and Tools
