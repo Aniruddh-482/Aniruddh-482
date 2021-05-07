@@ -7,7 +7,7 @@
 * 💬 Ask me about: tech, music, tv shows, and books.
 * 📫 How to reach me: aniruddhupadhyay07@gmail.com
 * 🥅 2021 Goals: To learn as much as I can.
-* CV Website <a href="https://aniruddh-482.github.io/CV/">here</a>
+* 🕸 CV Website <a href="https://aniruddh-482.github.io/CV/">here</a>
 
 ### Languages and Tools
 <code><img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Languages/html5_logo.png"></code>&nbsp;
@@ -21,6 +21,8 @@
 ### Practice
 <code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Practice/Repl.it.png">](https://replit.com/@Aniruddh482)</code>&nbsp;
 <code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Practice/HackerRank_logo.png">](https://www.hackerrank.com/aniruddhupadhya1)</code>&nbsp;
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Practice/HackerEarth_logo.png">](https://www.hackerearth.com/@aniruddhupadhyay07)</code>&nbsp;
+<code>[<img height="40" src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Practice/CodeChef_logo.png">](https://www.codechef.com/users/aniruddh_482)</code>&nbsp;
 
 ### My Stats ✨
 <a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react&layout=compact" /></a>
