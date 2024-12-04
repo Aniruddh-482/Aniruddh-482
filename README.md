@@ -1,69 +1,146 @@
-<h1 align="left"> Hello there <img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Gifs/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Aniruddh</h1>
-
-<img src="/My_Assets/Header%20%26%20Footer/Header.png">
-
-I am Aniruddh Upadhyay, currently pursuing my Bachelor's in Information Technology from [Shri Vaishnav Vidyapeeth Vishwavidyalaya](https://www.svvv.edu.in/UserPanel/Default.aspx), Indore. I am a Tech enthusiast, developer & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
-
----
-
-![Aniruddh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Aniruddh-482&hide_border=true&theme=redical)
-
----
-
-<img align="right" alt="GIF" src="/My_Assets/Gifs/Coder.gif" width="490px" height="315px" />
-
-### 🧑🏻‍💻About me
-* 🔭 I’m a 3rd year engineering student (B.Tech IT) at [SVVV](https://www.svvv.edu.in/).
-* 🌱 I’m currently learning Python and Javascript.
-* 🤔 I’m looking for help with some hilarious doubts.
-* 💬 Ask me about: tech, music, tv shows, and books.
-* 📫 How to reach me: aniruddhupadhyay07@gmail.com
-* 🥅 2022 Goals: To learn as much as I can.
-* 🕸 CV Website <a href="https://aniruddh-482.github.io/CV/">here</a>
-
-### 🚀Languages and Tools
-<code><img height="40" src="/My_Assets/Languages/html5_logo.png"></code>&nbsp;
-<code><img height="40" src="/My_Assets/Languages/css3_logo.png"></code>&nbsp;
-<code><img height="40" src="/My_Assets/Languages/php_logo.png"></code>&nbsp;
-<code><img height="40" src="/My_Assets/Languages/c_logo.png"></code>&nbsp;
-<code><img height="40" src="/My_Assets/Languages/cpp_logo.png"></code>&nbsp;
-<code><img height="40" src="/My_Assets/Languages/java_logo.png"></code>&nbsp;
-<code><img height="40" src="/My_Assets/Languages/python_logo.png"></code>&nbsp;
-
-### 💻Practice
-<code>[<img height="40" src="/My_Assets/Practice/Repl.it.png">](https://replit.com/@Aniruddh482)</code>&nbsp;
-<code>[<img height="40" src="/My_Assets/Practice/HackerRank_logo.png">](https://www.hackerrank.com/aniruddhupadhya1)</code>&nbsp;
-<code>[<img height="40" src="/My_Assets/Practice/HackerEarth_logo.png">](https://www.hackerearth.com/@aniruddhupadhyay07)</code>&nbsp;
-<code>[<img height="40" src="/My_Assets/Practice/CodeChef_logo.png">](https://www.codechef.com/users/aniruddh_482)</code>&nbsp;
-
-### 📈My Stats
-<a><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aniruddh-482&show_icons=true&hide_border=true&theme=radical" />&nbsp; <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aniruddh-482&hide_border=true&theme=radical" /></a>
-<!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-482&count_private=true&show_icons=true&theme=react&layout=compact" /> -->
-<br>
-
-<div align="center">
-
----
-
-<p align="center">
-   <img src="/My_Assets/Header %26 Footer/Github-Contribution-Grid-Snake.svg" alt="snake">
-</p>
-
-<h2>
-Connect with me<img src="/My_Assets/Gifs/Handshake.gif" height="32px">
-</h2>
-
-| [<img src="/My_Assets/Connect_with_me/Github.png" alt="Github logo" width="34">](https://github.com/Aniruddh-482) | [<img src="/My_Assets/Connect_with_me/Gmail.png" alt="Gmail logo" height="32">](mailto:aniruddhupadhyay07@gmail.com) | [<img src="/My_Assets/Connect_with_me/Linkedin.png" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/aniruddh-upadhyay-0170a51b2/) | [<img src="/My_Assets/Connect_with_me/Twitter.png" alt="Twitter Logo" width="30">](https://twitter.com/Aniruddh_482) | [<img src="/My_Assets/Connect_with_me/Instagram.png" alt="Instagram logo" width="32">](https://www.instagram.com/aniruddh_upadhyay_/) | [<img src="/My_Assets/Connect_with_me/Facebook.png" alt="Facebook Logo" width="30">](https://www.facebook.com/aniruddh.upadhyay.33)
-|:---:|:---:|:---:|:---:|:---:|:---:|
-
+<div align="center" style="background-color:#1E1E1E; padding: 20px; border-radius: 10px;">
+  <h1 style="color: #BB86FC;">Welcome to My GitHub! <img src="assets/gifs/hi.gif" alt = "hi" width="25px" height="25px"></h1>
+  <p style="color: gray;">Crafting digital experiences with curiosity and code.</p>
 </div>
 
-<br>
-<hr>
+---
 
-<!--* ⚡ Fun fact: I love Coding, Space, Religion, and History, and think about them all at the same time-->
+### 👋 About Me
 
-<!--
-**Aniruddh-482/Aniruddh-482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+Hey, my name is **Aniruddh Upadhyay**, and I am a  
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BB86FC&background=1E1E1E00&center=false&width=435&lines=Front-End+Developer;Tech+Enthusiast;Open-Source+Explorer" alt="Typing SVG" />
+</div>
+
+I completed my **BTech in Information Technology in 2023** from **Shree Vaishnav Vidyapeeth Vishwavidyalaya**.  
+I enjoy exploring new technologies, contributing to open-source projects, and building user-friendly applications.  
+In my free time, I like to read, solve coding challenges, and experiment with different Linux distributions. <br>
+<a href="https://aniruddhupadhyay.com" style="color: #BB86FC; text-decoration: none; font-size: 15px; margin-right: 15px;">
+  🌐 Visit My Portfolio
+</a>
+<a href="assets/Resume.pdf" download="Aniruddh-Upadhyay-Resume.pdf" style="color: #BB86FC; text-decoration: none; font-size: 15px;">
+  📄 Download My Resume
+</a>
+
+---
+
+### 👨‍💻 Explore More About Me
+<div style="background-color:#2E2E2E; padding: 15px; border-radius: 8px;">
+  <ul style="color: gray;">
+    <li>💼 Aspiring Front-End Developer passionate about building user-friendly web solutions.</li>
+    <li>🎯 Tech Stack: HTML, CSS, JavaScript, React, Python, Flask, Git.</li>
+    <li>🎓 Completed BTech in IT in 2023 from SVVV.</li>
+    <li>✨ Exploring new tools like React Native and Linux for future projects.</li>
+    <li>🌱 Looking to contribute to good open-source projects and enhance my skills in collaborative environments.</li>
+  </ul>
+</div>
+
+---
+
+### 🛠️ Skills & Tools
+<div align="center" style="background-color:#1E1E1E; padding: 10px; border-radius: 8px;">
+  <img src="assets/icons/html.png" alt="HTML" width="30px"/>
+  <img src="assets/icons/css.png" alt="CSS" width="30px"/>
+  <img src="assets/icons/javascript.png" alt="JavaScript" width="35px"/>
+  <img src="assets/icons/react.png" alt="React" width="40px"/>
+  <img src="assets/icons/python.png" alt="Python" width="35px"/>
+  <img src="assets/icons/flask.png" alt="Flask" width="45px"/>
+  <img src="assets/icons/mysql.png" alt="MySQL" width="58px"/>
+  <img src="assets/icons/git.png" alt="Git" width="35px"/>
+  <img src="assets/icons/github.png" alt="Github" width="35px"/>
+  <img src="assets/icons/vscode.png" alt="VSCode" width="35px"/>
+</div>
+
+---
+
+### 🏆 Coding Platforms
+<div align="center" style="background-color:#1E1E1E; padding: 10px; border-radius: 8px;">
+  <a href="https://leetcode.com/Aniruddh-482/">
+    <img src="assets/icons/leetcode.png" alt="LeetCode" width="35px"/>
+  </a>
+  <a href="https://www.hackerrank.com/aniruddhupadhya1">
+    <img src="assets/icons/hackerrank.png" alt="HackerRank" width="35px"/>
+  </a>
+  <a href="https://takeuforward.org/profile/Aniruddh_Upadhyay">
+    <img src="assets/icons/takeuforward.png" alt="HackerRank" width="35px"/>
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aniruddh-482&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniruddh-482&bg_color=1E1E1E&color=BB86FC&line=BB86FC&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<details>
+<summary>Netflix GPT</summary>
+<div style="background-color:#2E2E2E; padding: 15px; border-radius: 8px; margin: 10px 0;">
+  <ul>
+    <li><strong>Repository:</strong> <a href="https://github.com/Aniruddh-482/Netflix-GPT" style="color:#BB86FC;">View on GitHub</a></li>
+    <li><strong>Live Demo:</strong> <a href="https://netflix-gpt-demo.vercel.app" style="color:#BB86FC;">Try it out</a></li>
+    <li><strong>Summary:</strong> AI-powered movie recommendation system built with React and Flask.</li>
+    <li><strong>Preview:</strong>
+      <video src="/assets/videos/netflix-gpt-demo.mp4" controls width="300"></video>
+    </li>
+  </ul>
+</div>
+</details>
+
+<details>
+<summary>YouTube Clone</summary>
+<div style="background-color:#2E2E2E; padding: 15px; border-radius: 8px; margin: 10px 0;">
+  <ul>
+    <li><strong>Repository:</strong> <a href="https://github.com/Aniruddh-482/YouTube-Clone" style="color:#BB86FC;">View on GitHub</a></li>
+    <li><strong>Live Demo:</strong> <a href="https://youtube-clone-demo.vercel.app" style="color:#BB86FC;">Try it out</a></li>
+    <li><strong>Summary:</strong> A modern YouTube clone built using React.</li>
+    <li><strong>Preview:</strong>
+      <video src="/assets/videos/youtube-clone-demo.mp4" controls width="300"></video>
+    </li>
+  </ul>
+</div>
+</details>
+
+<details>
+<summary>Food Order App</summary>
+<div style="background-color:#2E2E2E; padding: 15px; border-radius: 8px; margin: 10px 0;">
+  <ul>
+    <li><strong>Repository:</strong> <a href="https://github.com/Aniruddh-482/FoodOrderApp" style="color:#BB86FC;">View on GitHub</a></li>
+    <li><strong>Live Demo:</strong> <a href="https://food-order-app.vercel.app" style="color:#BB86FC;">Try it out</a></li>
+    <li><strong>Summary:</strong> A seamless food ordering experience using React and hooks.</li>
+    <li><strong>Preview:</strong>
+      <video src="/assets/videos/food-order-app-demo.mp4" controls width="300"></video>
+    </li>
+  </ul>
+</div>
+</details>
+
+---
+
+### 🤝 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/aniruddh-upadhyay-0170a51b2/">
+    <img src="assets/icons/linkedin.png" alt="LinkedIn" width="50px" />
+  </a>
+  <a href="https://twitter.com/Aniruddh_482">
+    <img src="assets/icons/x.png" alt="Twitter" width="40px" />
+  </a>
+  <a href="https://github.com/Aniruddh-482">
+    <img src="assets/icons/github.png" alt="GitHub" width="45px" />
+  </a>
+</div>
+
+---
+<p align="center">
+   <img src="assets/gifs/footer.svg" alt="snake">
+</p>
+
+<p align="center" style="color: gray;">
+  If you like my work, don't forget to ⭐ this repository and show some ❤️!
+</p>
